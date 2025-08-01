@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A020F0&center=true&vCenter=true&width=435&lines=★+·.·+ONYX+|+オニキス+·.·+★;Welcome+to+my+GitHub+Realm" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=9D00FF&height=300&section=header&text=★·.·ONYX%20|%20オニキス·.·★&fontSize=40&fontColor=ffffff&fontAlign=50&desc=Welcome%20to%20my%20GitHub%20Realm&descSize=20&descAlign=50&descAlignY=65"/>
 </p>
 
 <div align="center">
