@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=9D00FF&height=300&section=header&text=★·.·ONYX%20|%20オニキス·.·★&fontSize=40&fontColor=ffffff&fontAlign=50&desc=Welcome%20to%20my%20GitHub%20Realm&descSize=20&descAlign=50&descAlignY=65"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=9D00FF&height=400&section=header&text=★·.·ONYX%20|%20オニキス·.·★&fontSize=40&fontColor=ffffff&fontAlign=50&desc=Welcome%20to%20my%20GitHub%20Realm&descSize=20&descAlign=50&descAlignY=65"/>
 </p>
 
 <div align="center">
@@ -80,8 +80,8 @@ Focus:       Creative Automation, Discord Bots, Web Utilities
 </p>
 
 ---
-
-### 🌟 That's it! 🌟
+<p align="center">
+🌟 That's it! 🌟
 <p align="center">
   <img src="https://media.giphy.com/media/3o7TKU8RvQuomFfUUU/giphy.gif" width="400" alt="Jumping dino"/>
 </p>
